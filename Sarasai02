@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Pavadinimas</title>
+    <meta charset="utf-8">
+    </head>
+    <body>
+<h1>Learning web Development</h1>
+<ol>
+  <li style="list-style-type: upper-roman">Background Skills</li>
+<ol>
+    <dd><li style="list-style-type: upper-latin">Git/Github</li></dd>
+    <dd><li style="list-style-type: upper-latin">Text Editors</li></dd>
+</ol>
+  <li style="list-style-type: upper-roman">HTML</li>
+<ol>
+      <dd><li style="list-style-type: upper-latin">Minimal Page</li></dd>
+      <dd><li style="list-style-type: upper-latin">Text Formatting</li></dd>
+      <dd><li style="list-style-type: upper-latin">HTML5 tags</li></dd>
+      <dd><li style="list-style-type: upper-latin">Lists</li></dd>
+      <ol>
+      <dd><li style="list-style-type: lower-roman">Unordered</li></dd>
+      <dd><li style="list-style-type: lower-roman">Ordered</li></dd>
+      <dd><li style="list-style-type: lower-roman">Definition</li></dd>
+      <dd><li style="list-style-type: lower-roman">Nested</li></dd>
+      </ol>
+      <dd><li style="list-style-type: upper-latin">Links</li></dd>
+      <ol>
+      <dd><li style="list-style-type: lower-roman">Absolute</li></dd>
+      <dd><li style="list-style-type: lower-roman">Relative</li></dd>
+      </ol>
+      <dd><li style="list-style-type: upper-latin">Images</li></dd>
+      <dd><li style="list-style-type: upper-latin">Forms</li></dd>
+</ol>
+  <li style="list-style-type: upper-roman">CSS</li>
+  <ol>
+        <dd><li style="list-style-type: upper-latin">Anatomy</li></dd>
+        <dd><li style="list-style-type: upper-latin">Basic Selectors</li></dd>
+        <ol>
+        <dd><li style="list-style-type: lower-roman">Element</li></dd>
+        <dd><li style="list-style-type: lower-roman">Class</li></dd>
+        <dd><li style="list-style-type: lower-roman">Id</li></dd>
+        <dd><li style="list-style-type: lower-roman">Group</li></dd>
+        </ol>
+        <dd><li style="list-style-type: upper-latin">The DOM</li></dd>
+        <dd><li style="list-style-type: upper-latin">Advanced Selectors</li></dd>
+        <dd><li style="list-style-type: upper-latin">Box model</li></dd>
+  </ol>
+  <li style="list-style-type: upper-roman">Programming</li>
+  <ol>
+      <dd><li style="list-style-type: upper-latin">Python</li></dd>
+      <dd><li style="list-style-type: upper-latin">JavaScript</li></dd>
+  </ol>
+  <li style="list-style-type: upper-roman">Database</li>
+  <ol>
+      <dd><li style="list-style-type: upper-latin">Flat file</li></dd>
+      <dd><li style="list-style-type: upper-latin">Relational</li></dd>
+  </ol>
+</ol>
+
+</body>
+</html>

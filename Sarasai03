@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Pavadinimas</title>
+    <meta charset="utf-8">
+    </head>
+    <body>
+<h1>Definition List</h1>
+      <style>
+div {
+  border: 1px solid;
+}
+</style>
+<div>
+      <dl>
+    <dt><strong> 1 Savokos pavadinimas</strong></dt>
+    <dd> 1 Savokos apibrezimas</dd>
+</dl>
+<dl>
+    <dt><em> 2 Savokos pavadinimas</em></dt>
+    <dd> 2 Savokos apibrezimas</dd>
+</dl>
+<dl>
+    <dt><mark> 3 Savokos pavadinimas</mark>
+    <dd> 3 Savokos apibrezimas</dd>
+</dl>
+<dl>
+    <dt><ins> 4 Savokos pavadinimas</ins>
+    <dd> 4 Savokos apibrezimas</dd>
+</dl>
+      </div>
+</body>
+</html>

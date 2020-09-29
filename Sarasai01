@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Pavadinimas</title>
+    <meta charset="utf-8">
+    </head>
+    <body>
+<h1>Unordered List</h1>
+<ul>
+  <li>List item 1</li>
+  <li>List item 2</li>
+  <li>List item 3</li>
+  <li style="list-style-type: square">List item 4</li>
+  <li style="list-style-type: circle">List item 5</li>
+</ul>
+<h1>Ordered List</h1>
+<ol>
+<li> list item 1</li>
+  <li style="list-style-type: lower-latin">List item 2</li>
+  <li style="list-style-type: upper-latin">List item 3</li>
+  <li style="list-style-type: lower-roman">List item 4</li>
+  <li style="list-style-type: upper-roman">List item 5</li>
+<li> list item 6</li>
+</ol>
+<h1>Ordered List 2</h1>
+<ol>
+<li value="3">List item 1</li>
+<li>List item 2</li>
+<li>List item 3</li>
+</ol>
+</body>
+</html>
